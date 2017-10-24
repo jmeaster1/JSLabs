@@ -1,0 +1,9 @@
+h1{
+  font-family: 'Gloria Hallelujah', cursive;
+}
+h1:hover{
+  color: blue;
+}
+body{
+  background-color: darkgrey;
+}

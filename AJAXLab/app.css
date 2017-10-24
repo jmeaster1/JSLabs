@@ -1,0 +1,36 @@
+body{
+  background-image: url('https://usathss.files.wordpress.com/2017/06/baseball_graphic1.jpg?w=1000&h=600&crop=1');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+button{
+  width: 200px;
+  height: 60px;
+  font-size: 24px;
+  font-family: 'Racing Sans One', cursive;
+  color: blue;
+  text-shadow: 1px 1px 1px white;
+  background-color: darkgrey;
+  margin-left: 40%;
+  margin-top: 10%;
+}
+button:hover{
+  color: white;
+  background-color: black;
+  text-shadow: 1px 1px 1px lightgrey;
+}
+ul{
+  float: right;
+  margin-right: 50px;
+}
+li{
+  color: white;
+  text-decoration: none;
+  font-size: 24px;
+  font-family: 'Racing Sans One', cursive;
+}
+li a{
+  color: white;
+  text-shadow: 2px 2px 2px black;
+  text-decoration: none;
+}
